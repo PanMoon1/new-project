@@ -1,0 +1,5 @@
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.5\3.5\bin\Debug\3.5.exe.config
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.5\3.5\bin\Debug\3.5.exe
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.5\3.5\bin\Debug\3.5.pdb
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.5\3.5\obj\Debug\3.5.exe
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.5\3.5\obj\Debug\3.5.pdb

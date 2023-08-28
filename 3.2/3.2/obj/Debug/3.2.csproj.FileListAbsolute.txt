@@ -1,0 +1,6 @@
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.2\3.2\bin\Debug\3.2.exe.config
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.2\3.2\bin\Debug\3.2.exe
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.2\3.2\bin\Debug\3.2.pdb
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.2\3.2\obj\Debug\3.2.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.2\3.2\obj\Debug\3.2.exe
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\HelloWorld\3.2\3.2\obj\Debug\3.2.pdb
