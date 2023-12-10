@@ -24,7 +24,25 @@ namespace _4._2
                 for (int j = 0; j < b; j++)
                 {
                     m[i, j] = r.Next(0, 4);
+                    Console.Write("  " + m[i, j]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+            for (int i = 0; i < a; i++)
+            {
+                for (int j = 0; j < b; j++)
+                {
                     n[i, j] = r.Next(0, 4);
+                    Console.Write("  " + n[i, j]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+            for (int i = 0; i < a; i++)
+            {
+                for (int j = 0; j < b; j++)
+                {
                     l[i, j] = m[i, j] + n[i, j];
                     Console.Write("  " + l[i, j]);
                 }
