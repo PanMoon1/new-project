@@ -1,0 +1,6 @@
+C:\Users\Artem\source\repos\5.2\5.2\obj\Debug\5.2.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\5.2\5.2\bin\Debug\5.2.exe.config
+C:\Users\Artem\source\repos\5.2\5.2\bin\Debug\5.2.exe
+C:\Users\Artem\source\repos\5.2\5.2\bin\Debug\5.2.pdb
+C:\Users\Artem\source\repos\5.2\5.2\obj\Debug\5.2.exe
+C:\Users\Artem\source\repos\5.2\5.2\obj\Debug\5.2.pdb
